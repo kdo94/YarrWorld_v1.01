@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Yarr World</string>
+    <string name="button__text">SHIVER ME TIMBERS</string>
+    <string name="toast_text">Yarr World!</string>
+    <string name="welcome_text">Welcome to your \"first\" app!</string>
+    <string name="pirate_content">Orange Coast Colleg pirate logo.</string>
 </resources>

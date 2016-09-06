@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarr World</string>
+    <string name="button__text">SHIVER ME BOIS</string>
+    <string name="toast_text">Yarr World!</string>
+    <string name="welcome_text">Bienvenue dans votre \"première\" app!</string>
+    <string name="pirate_content">Orange Coast College pirate logo.</string>
+</resources>
